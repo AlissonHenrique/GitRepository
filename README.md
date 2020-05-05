@@ -1,5 +1,5 @@
 <h1 align="center">  
-    Git Explrer
+    Git Explorer
 </h1>
 
 <h4 align="center">
