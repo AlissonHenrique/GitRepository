@@ -6,8 +6,8 @@
  Project buildt with React
 </h4>
 
-### :rocket:Technologie
--  ⚛️ React
+### :rocket:Technologies
+- React
 
 ### :rocket: How to install and start 
 - `git clone https://github.com/AlissonHenrique/Github-Explorer.git
@@ -15,7 +15,7 @@
 - `yarn  or npm`
 - `yarn start or npm start` 
 
-
+<p align="center"><img =src="https://imgur.com/nfHFWWg"></p>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE]() for more information.
