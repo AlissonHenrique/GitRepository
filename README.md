@@ -10,11 +10,12 @@
 - React
 
 ### :rocket: How to install and start 
-- `git clone https://github.com/AlissonHenrique/Github-Explorer.git
+- `git clone https://github.com/AlissonHenrique/Github-Explorer.git` 
 - **Go to repository folder**
 - `yarn  or npm`
 - `yarn start or npm start` 
 
+<br/>
 <p align="center"><img src="https://i.imgur.com/nfHFWWg.jpg"></p>
 
 ## :memo: License
