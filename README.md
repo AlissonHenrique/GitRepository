@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
- Project buildt with React
+ Project built with React
 </h4>
 
 ### :rocket:Technologies
