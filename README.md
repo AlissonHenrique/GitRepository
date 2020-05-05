@@ -1,44 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">  
+    Git Explrer
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/gobarber-api.svg">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/gobarber-api.svg">
+  
+  <a href="https://www.codacy.com/app/lukemorales/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/gobarber-api&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/gobarber-api.svg">
+  <a href="">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/gobarber-api.svg">
+  </a>
+  
+  <a href="https://github.com/lukemorales/gobarber-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/gobarber-api.svg">
+  </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/gobarber-api.svg">   
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### :page_with_curl: About
+This project is based on an application for a hair salon. Containing scheduling, appointments, session and authentication.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### To start, **Docker** is required
 
-### `yarn test`
+### :rocket: How to install and start 
+- `git clone https://github.com/AlissonHenrique/GoBarber.git
+- **Go to repository folder**
+- `yarn dev:server` (in Backend)
+- `yarn start` (in Frontend)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :memo: License
+This project is under the MIT license. See the [LICENSE]() for more information.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Made with ♥ by Alisson Henrique :wave: [Get in touch!](https://www.linkedin.com/in/alissonhenri/)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
