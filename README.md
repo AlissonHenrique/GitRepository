@@ -10,9 +10,11 @@
 
 pplication for a hair salon. Containing scheduling, appointments, session and authentication.
 
+### :rocket:tecnologie
+- React
 
 ### :rocket: How to install and start 
-- `git clone https://github.com/AlissonHenrique/GoBarber.git
+- `git clone https://github.com/AlissonHenrique/Github-Explorer.git
 - **Go to repository folder**
 - `yarn  or npm`
 - `yarn start or npm start` 
