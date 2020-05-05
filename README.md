@@ -6,12 +6,8 @@
  Project buildt with React
 </h4>
 
-
-
-pplication for a hair salon. Containing scheduling, appointments, session and authentication.
-
-### :rocket:tecnologie
-- React
+### :rocket:Technologie
+-  ⚛️ React
 
 ### :rocket: How to install and start 
 - `git clone https://github.com/AlissonHenrique/Github-Explorer.git
